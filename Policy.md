@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Policy
+title: Comments Policy
 ---
 
-# Comments Policy
 There is no strict comment policy on this site. Any comments made must be relavent to the post, and must not be offensife to any cultures or races.
 In general, while leaving a comment on any post, go through the following checklist:-
   * Is this comment relavent to the topic in discussion?
