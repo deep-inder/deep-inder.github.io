@@ -12,6 +12,7 @@ description: 'A blog site made by Deep Inder Mohan, student at IIIT Bangalore'
 url: https://github.com/deep-guy/blog/
 
 paginate: 5
+gravatar_md5: 165d7affab861e4458cc8e2d124e8ce4
 
 # About/contact
 author:
