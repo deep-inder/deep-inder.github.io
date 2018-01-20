@@ -4,28 +4,20 @@ title: About Me
 ---
 
 <p class="message">
-Hello visitor! Welcome to  *A Persistent Existence*, my blog.
+Hello visitor! Welcome to  A Persistent Existence, my blog.
 </p>
 ![Me]( https://deep-guy.github.io/P4100231.JPG )
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Hiya! You've come to the blog of **Deep Inder Mohan**, aka *deep-guy*. I'm curretly a student at [International Institute of Information Technology, Bangalore]( https://www.iiitb.ac.in/ ), where I'm persuing an Integrated M.Tech. degree in the field of Computer Science. 
 
-There are currently two themes built on Poole:
+I'm a member of the software developers group at IIIT-B, called [Zense](https://zense.co.in/). You can check our projects out on [Github](https://github.com/zense).
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+## Contact
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+You can reach me on [Facebook](https://www.facebook.com/deepindermohan.1), [Linkedin](https://www.linkedin.com/in/deep-inder-mohan-32173a154/), and of course, you can check out my [Github](https://github.com/deep-guy).
 
-## Setup
 
-Some fun facts about the setup of this project include:
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+You can also check out all the projects I'm working on, or have been involved with in the projects tab (coming soon!).
 
 Thanks for reading!
