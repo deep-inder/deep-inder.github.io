@@ -7,7 +7,7 @@ gems: [jekyll-paginate]
 baseurl: ''
 # Setup
 title: A Persistent Existence
-tagline: 'deep-guys blog'
+tagline: "deep-guy's blog"
 description: 'A blog site made by Deep Inder Mohan, student at IIIT Bangalore' 
 url: https://github.com/deep-guy/blog/
 
