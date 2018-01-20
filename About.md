@@ -4,7 +4,7 @@ title: About Me
 ---
 
 <p class="message">
-Hello visitor! Welcome to  __A Persistent Existence__, my blog.
+Hello visitor! Welcome to  *A Persistent Existence*, my blog.
 </p>
 ![Me]( https://deep-guy.github.io/P4100231.JPG )
 
