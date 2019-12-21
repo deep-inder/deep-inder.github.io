@@ -1,24 +1,60 @@
-# Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
-permalink: pretty
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
 
-gems: [jekyll-paginate]
-baseurl: ''
-# Setup
-title: A Persistent Existence
-tagline: "deep-guy's blog"
-description: 'A blog site made by Deep Inder Mohan, student at IIIT Bangalore' 
-url: https://github.com/deep-guy/blog/
+# Personal info
+name: Brett Harris
+title: Senior Network System Administrator
+email: brett.h@email.co.uk
+website: www.github.com/sproogen/resume-theme
 
-paginate: 5
-gravatar_md5: 165d7affab861e4458cc8e2d124e8ce4
+# Social links
+twitter_username: facespics
+github_username:  sproogen
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+instagram_username: chillwildlife
+linkedin_username: jameswgrant
+# pinterest_username: jekyll
+youtube_username: globalmtb
+# googleplus_username: +jekyll
 
-# About/contact
-author:
-  name: Deep Inder Mohan
-  url: https://github.com/deep-guy
-  email: mohan.deepinder@gmail.com
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
 
-# Custom vars
-version: 1.0.2
+  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+   - Rock climbing
+   - Gaming
+   - Knitting
+   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
