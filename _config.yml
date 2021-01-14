@@ -24,7 +24,7 @@ instagram_username: that_deep_guy
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Deep Inder Mohan, and I'm a CS student. I'm currently in an Integrated Masters program in IIIT Bangalore, India. My fields of interest include <mark>Machine Learning</mark>, particularly its applications in <mark>Natural Language Processing</mark>, and also <mark>Agent Based Modelling</mark>. Recently, I have also undertaken research projects in the field of <mark>Cryptography</mark>, particularly, <mark>Secure MPC</mark>. For more info, check out my CV [here]({% post_url DeepInder_CV.pdf %}).
+  Hi, my name's Deep Inder Mohan, and I'm a CS student. I'm currently in an Integrated Masters program in IIIT Bangalore, India. My fields of interest include <mark>Machine Learning</mark>, particularly its applications in <mark>Natural Language Processing</mark>, and also <mark>Agent Based Modelling</mark>. Recently, I have also undertaken research projects in the field of <mark>Cryptography</mark>, particularly, <mark>Secure MPC</mark>. For more info, check out my CV 
 # I am most skilled in: <mark>Python</mark> and <mark>E</mark>
 
 # Projects Section
