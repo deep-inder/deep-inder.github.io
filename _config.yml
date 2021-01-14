@@ -24,7 +24,7 @@ instagram_username: that_deep_guy
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Deep Inder Mohan, and I'm a CS student. I'm currently in an Integrated Masters program in IIIT Bangalore, India. I love all things ML, and am particularly fascinated my Natural Language Processing.
+  Hi, my name's Deep Inder Mohan, and I'm a CS student. I'm currently in an Integrated Masters program in IIIT Bangalore, India. My fields of interest include <mark>Machine Learning</mark>, particularly its applications in <mark>Natural Language Processing</mark>, and also <mark>Agent Based Modelling</mark>. Recently, I have also undertaken research projects in the field of <mark>Cryptography</mark>, particularly, <mark>Secure MPC</mark>. For more info, check out my CV [here]({% post_url DeepInder_CV.pdf %}).
 # I am most skilled in: <mark>Python</mark> and <mark>E</mark>
 
 # Projects Section
@@ -39,11 +39,7 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  Alongside my research interests in ML and Cryptography, I am also an avid debator. I have won multiple competitions at the school and college level for debates and extempores, and also am the head of the Debate Society of IIITB. 
 
 # Footer
 footer_show_references: false
