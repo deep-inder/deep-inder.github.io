@@ -49,7 +49,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Deep Inder Mohan, and I'm a CS student. I'm currently in an Integrated Masters program in IIIT Bangalore, India. My fields of interest include <mark>Machine Learning</mark>, particularly its applications in <mark>Natural Language Processing</mark>, and also <mark>Agent Based Modelling</mark>. Recently, I have also undertaken research projects in the field of <mark>Cryptography</mark>, particularly, <mark>Secure MPC</mark>.
   
-  For more info, check out my CV 
+  For more info, check out my [CV](https://github.com/deep-guy/docs/raw/main/DeepInder_CV.pdf) 
 
 content:
   - title: Projects # Title for the section
@@ -60,9 +60,9 @@ content:
         link: github.com/deep-guy/interviewQG
         # link_text: Project Website
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          Automated HR Interviews? No Problem!
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          This project was done as a part of a research internship under Prof. Dinesh Babu Jayagopi at IIIT Bangalore. The objective was to train a language model to be able to generate questions based on a body of text that would be relavent to the text, yet not have their answer contined in the text. The motivation was to create a system which would be able to conduct HR interviews automatically, which would allow us to eliminate both interviewer bias and repetitiveness from the process. For more info, check out the project on github!
 
   # - title: Experience # Title for the section
   #   layout: list # Type of content section (list/text)
