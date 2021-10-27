@@ -62,7 +62,17 @@ content:
         quote: >
           August 2021 - Current
         description: | # this will include new lines to allow paragraphs
-          This project was done as a part of a research internship under Prof. Dinesh Babu Jayagopi at IIIT Bangalore. The objective was to train a language model to be able to generate questions based on a body of text that would be relavent to the text, yet not have their answer contined in the text. The motivation was to create a system which would be able to conduct HR interviews automatically, which would allow us to eliminate both interviewer bias and repetitiveness from the process. For more info, check out the project on github!
+          More info out soon!
+
+      
+      - layout: top-middle
+        title: Modeling Prejudice and Its Effect on Societal Prosperity
+        link: https://github.com/deep-guy/prejudice_model
+        # link_text: Project Website
+        quote: >
+          August 2020 - February 2021
+        description: | # this will include new lines to allow paragraphs
+          More info out [soon](documents/Prejudice_Modeling_JoS_Submission.pdf)!
       
       
       - layout: top-middle
