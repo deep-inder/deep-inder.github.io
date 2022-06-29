@@ -62,7 +62,7 @@ content:
         quote: >
           August 2021 - Current
         description: | # this will include new lines to allow paragraphs
-          More info out soon!
+          More info out [soon](documents/DeepInder-Thesis.pdf)!
 
       
       - layout: top-middle
