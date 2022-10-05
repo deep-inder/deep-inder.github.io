@@ -48,11 +48,7 @@ orcid_username: 0000-0001-9370-3060
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-<<<<<<< HEAD
   Hi, my name's Deep Inder Mohan, and I'm a CS Ph.D. student at the [School of Cybersecurity and Privacy](https://scp.cc.gatech.edu/), located in the Georgia Institute of Technology.  My field of interest is <mark>Cryptography</mark>, including both Theoretical and Applied Cryptography. I am being advised at Georgia Tech by Professors [Sasha Boldyreva](https://faculty.cc.gatech.edu/~aboldyre/) and [Joseph Jaeger](https://faculty.cc.gatech.edu/~josephjaeger/)
-=======
-  Hi, my name's Deep Inder Mohan, and I'm a CS student. I'm currently in an Integrated Masters program in IIIT Bangalore, India. My fields of interest include <mark>Machine Learning</mark>, particularly its applications in <mark>Natural Language Processing</mark>, and also <mark>Agent Based Modelling</mark>. I have also undertaken research projects in the field of <mark>Cryptography</mark>, particularly, <mark>Secure MPC</mark>. My current areas of interest are <mark>Privacy Preserving Technologies</mark> and <mark>Applied Cryptography</mark>.
->>>>>>> 2b63e4e637a2666cc5b4d733bda38d6f7a419540
   
   For more info, check out my [CV](documents/DeepInder_CV.pdf) 
 
