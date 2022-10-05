@@ -59,7 +59,7 @@ content:
       - layout: top-middle
         title: Modeling Prejudice and Its Effect on Societal Prosperity
         link: https://www.tandfonline.com/doi/full/10.1080/17477778.2022.2039570
-        link_text: Paper
+        link_text: Paper Link
         quote: >
           Published in the Taylor & Francis Journal of Simulation. Co-authors: Arjun Verma, Shrisha Rao
         description: | # this will include new lines to allow paragraphs
@@ -76,16 +76,6 @@ content:
           Master's thesis @ IIITB under the supervision of Prof. Srinivas Vivek
         description: | # this will include new lines to allow paragraphs
           Foundational ID systems such as SSN and AADHAR can be critical to the effective governance of a nation. Since these systems deal with data that is inherently critical, securing this data becomes paramount. This poses a challenge to smaller nations, that do not have the resources to set up in-house servers to run these systems. In this project, we develop a Homomorphic Encryption based system that allows nations to levarage (potentially) untrusted third-party servers for storing and processing user data while ensuring that this data would remain secure - even if the third-party is breached. The accepted thesis can be found [here](documents/DeepInder-Thesis.pdf). This work was also presented by Prof. Srinivas Vivek in the Turing foundation's Trustworthy Digital Identity Conference held in London, U.K. on Sept. 16, 2022.
-
-      
-      - layout: top-middle
-        title: Modeling Prejudice and Its Effect on Societal Prosperity
-        link: https://github.com/deep-guy/prejudice_model
-        # link_text: Project Website
-        quote: >
-          August 2020 - February 2021
-        description: | # this will include new lines to allow paragraphs
-          More info out [soon](documents/Prejudice_Modeling_JoS_Submission.pdf)!
       
       
       - layout: top-middle
