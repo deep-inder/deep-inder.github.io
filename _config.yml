@@ -56,14 +56,14 @@ content:
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-middle
         title: Modeling Prejudice and Its Effect on Societal Prosperity
         link: https://www.tandfonline.com/doi/full/10.1080/17477778.2022.2039570
         link_text: Paper
         quote: >
           Published in the Taylor & Francis Journal of Simulation. Co-authors: Arjun Verma, Shrisha Rao
         description: | # this will include new lines to allow paragraphs
-          Existing studies of the multi-group dynamics of prejudiced societies focus on the social-psychological knowledge behind the relevant processes. We instead create a multi-agent framework that simulates the propagation of prejudice and measures its tangible impact on prosperity. Levels of prosperity are tracked for individuals as well as larger social structures including groups and factions. We model social interactions using the Continuous Prisoner's Dilemma (CPD) and a new agent type called a prejudiced agent. Our simulations show that even modeling prejudice as an exclusively out-group phenomenon nonetheless generates implicit in-group promotion, leading to higher relative prosperity of a prejudiced population. This skew in prosperity is seen to be correlated to factors such as size difference between groups, and the fraction of prejudiced agents in a group. Our model is a step towards a deeper understanding of the origins, propagation, and ramifications of prejudice through simulative studies grounded in apt theoretical backgrounds.
+          Existing studies of the multi-group dynamics of prejudiced societies focus on the social-psychological knowledge behind the relevant processes. We instead create a multi-agent framework that simulates the propagation of prejudice and measures its tangible impact on prosperity. Our simulations show that even modeling prejudice as an exclusively out-group phenomenon nonetheless generates implicit in-group promotion, leading to higher relative prosperity of a prejudiced population. This model is a step towards a deeper understanding of the origins, propagation, and ramifications of prejudice through simulative studies grounded in apt theoretical backgrounds.
 
 content:
   - title: Projects # Title for the section
