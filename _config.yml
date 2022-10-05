@@ -65,7 +65,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           Existing studies of the multi-group dynamics of prejudiced societies focus on the social-psychological knowledge behind the relevant processes. We instead create a multi-agent framework that simulates the propagation of prejudice and measures its tangible impact on prosperity. Our simulations show that even modeling prejudice as an exclusively out-group phenomenon nonetheless generates implicit in-group promotion, leading to higher relative prosperity of a prejudiced population. This model is a step towards a deeper understanding of the origins, propagation, and ramifications of prejudice through simulative studies grounded in apt theoretical backgrounds.
 
-content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -74,9 +73,9 @@ content:
         # link: github.com/deep-guy/interviewQG
         # link_text: Project Website
         quote: >
-          August 2021 - Current
+          Master's thesis @ IIITB under the supervision of Prof. Srinivas Vivek
         description: | # this will include new lines to allow paragraphs
-          More info out [soon](documents/DeepInder-Thesis.pdf)!
+          Foundational ID systems such as SSN and AADHAR can be critical to the effective governance of a nation. Since these systems deal with data that is inherently critical, securing this data becomes paramount. This poses a challenge to smaller nations, that do not have the resources to set up in-house servers to run these systems. In this project, we develop a Homomorphic Encryption based system that allows nations to levarage (potentially) untrusted third-party servers for storing and processing user data while ensuring that this data would remain secure - even if the third-party is breached. The accepted thesis can be found [here](documents/DeepInder-Thesis.pdf). This work was also presented by Prof. Srinivas Vivek in the Turing foundation's Trustworthy Digital Identity Conference held in London, U.K. on Sept. 16, 2022.
 
       
       - layout: top-middle
