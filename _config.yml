@@ -7,13 +7,9 @@ version: 2
 
 # Personal info
 name: Deep Inder Mohan
-<<<<<<< HEAD
 title: CS Ph.D. @ Georgia Tech
 email: deepinder@gatech.edu
-=======
-title: Integrated Masters, IIIT Bangalore
-email: deepinder.mohan@iiitb.ac.in
->>>>>>> 2b63e4e637a2666cc5b4d733bda38d6f7a419540
+
 
 # Dark Mode (true/false/never)
 darkmode: true
