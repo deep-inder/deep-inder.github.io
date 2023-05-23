@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Deep Inder Mohan
 title: CS Ph.D. @ Georgia Tech
-email: dmohan33@gatech.edu
+email: dmohan@gatech.edu
 
 
 # Dark Mode (true/false/never)
@@ -32,7 +32,7 @@ orcid_username: 0000-0001-9370-3060
 # Additional icon links
 additional_links:
 - title: Google Scholar
-  icon: fas graduation-cap
+  icon: fas fa-graduation-cap
   url: https://scholar.google.com/citations?user=P0g83jEAAAAJ&hl=en&oi=ao
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
