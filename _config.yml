@@ -58,10 +58,10 @@ content:
     content:
       - layout: top-middle
         title: |
-        Generic and Algebraic Computation Models: When AGM Proofs Transfer to the GGM
+          Generic and Algebraic Computation Models: When AGM Proofs Transfer to the GGM
 
 
-      link: https://www.iacr.org/cryptodb/data/paper.php?pubkey=34299
+        link: https://www.iacr.org/cryptodb/data/paper.php?pubkey=34299
         link_text: Paper Link
         quote: >
           Published in the proceedings of CRYPTO 2024;
