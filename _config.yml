@@ -77,7 +77,7 @@ content:
         quote: >
           Published in the Taylor & Francis Journal of Simulation. Co-authors: Arjun Verma, Shrisha Rao
         description: | # this will include new lines to allow paragraphs
-          Existing studies of the multi-group dynamics of prejudiced societies focus on the social-psychological knowledge behind the relevant processes. We instead create a multi-agent framework that simulates the propagation of prejudice and measures its tangible impact on prosperity. Our simulations show that even modeling prejudice as an exclusively out-group phenomenon nonetheless generates implicit in-group promotion, leading to higher relative prosperity of a prejudiced population. This model is a step towards a deeper understanding of the origins, propagation, and ramifications of prejudice through simulative studies grounded in apt theoretical backgrounds.
+          Existing studies of the multi-group dynamics of prejudiced societies focus on the social-psychological knowledge behind the relevant processes. Instead, we create a multi-agent framework that simulates the propagation of prejudice and measures its tangible impact on prosperity. Our simulations show that even modeling prejudice as an exclusively out-group phenomenon nonetheless generates implicit in-group promotion, leading to higher relative prosperity of a prejudiced population. This model is a step towards a deeper understanding of the origins, propagation, and ramifications of prejudice through simulative studies grounded in apt theoretical backgrounds.
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
