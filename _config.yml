@@ -58,7 +58,7 @@ content:
     content:
       - layout: top-middle
         title: |
-          May the Force _Not_ Be with you: Brute-Force Resistant Biometric Authentication and Key Reconstruction
+          May the Force *Not* Be with you: Brute-Force Resistant Biometric Authentication and Key Reconstruction
 
 
         link: https://eprint.iacr.org/2025/1211
