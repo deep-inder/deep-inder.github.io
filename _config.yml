@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Deep Inder Mohan, and I'm a CS Ph.D. student at the [School of Cybersecurity and Privacy](https://scp.cc.gatech.edu/), located in the Georgia Institute of Technology.  My field of interest is <mark>Cryptography</mark>, including both Theoretical and Applied Cryptography. Specifically, I am interested in problems relating to secure outsourced computation and authentication. I am being advised at Georgia Tech by Professors [Sasha Boldyreva](https://faculty.cc.gatech.edu/~aboldyre/) and [Joseph Jaeger](https://faculty.cc.gatech.edu/~josephjaeger/)
+  Hi, my name's Deep Inder Mohan, and I'm a CS Ph.D. student at the [School of Cybersecurity and Privacy](https://scp.cc.gatech.edu/), located in the Georgia Institute of Technology.  My field of interest is <mark>Cryptography</mark>, including both Theoretical and Applied Cryptography. I am being advised at Georgia Tech by Professors [Sasha Boldyreva](https://faculty.cc.gatech.edu/~aboldyre/) and [Joseph Jaeger](https://faculty.cc.gatech.edu/~josephjaeger/)
   
   For more info, check out my [CV](documents/DeepInder_CV.pdf) 
 
@@ -56,6 +56,20 @@ content:
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
+    - layout: top-middle
+        title: |
+         May the Force _Not_ Be with you: Brute-Force Resistant Biometric Authentication and Key Reconstruction
+
+
+        link: https://eprint.iacr.org/2025/1211
+        link_text: Paper Link
+        quote: >
+          Published in the proceedings of ACM CCS 2025;
+          Co-authors: Alexandra Boldyreva, Tianxin Tang
+        description: | # this will include new lines to allow paragraphs
+         The use of biometric-based security protocols is on the steep rise. As biometrics become more popular, we witness more attacks. For example, recent BrutePrint/InfinityGauntlet attacks showed how to brute-force fingerprints stored on an Android phone in about 40 minutes. The attacks are possible because biometrics, like passwords, do not have high entropy. But unlike passwords, brute-force attacks are much more damaging for biometrics, because one cannot easily change biometrics in case of compromise. In this work, we propose a novel provably secure Brute-Force Resistant Biometrics (BFRB) protocol for biometric-based authentication and key reconstruction that protects against brute-force attacks even when the server storing biometric-related data is compromised. Our protocol utilizes a verifiable partially oblivious pseudorandom function, an authenticated encryption scheme, a pseudorandom function, and a hash. We formally define security for a BFRB protocol and reduce the security of our protocol to the security of the building blocks. We implement the protocol and study its performance for the ND-0405 iris dataset.
+
+          
       - layout: top-middle
         title: |
           Generic and Algebraic Computation Models: When AGM Proofs Transfer to the GGM
@@ -87,7 +101,7 @@ content:
         # link: github.com/deep-guy/interviewQG
         # link_text: Project Website
         quote: >
-          (Ongoing) In collaboration with Sasha Boldyreva & Tianxin Tang
+         In collaboration with Sasha Boldyreva & Tianxin Tang
         description: | # this will include new lines to allow paragraphs
           Our objective is to create a biometrics-based key retrieval system that does not require users to remember any additional secrets beyond their biometrics, and yet achieves security against brute-force biometric attackers. 
         link: https://www.rsaconference.com/-/media/project/rsac/rsac-website/page-files/rsac-programs/security-scholar/security-scholar-posters/2024/security-scholar-poster---deep-inder-mohan---georgia-institute-of-technology-deep-inder-mohan.pdf?rev=ded5f7a08a3845768f501ccb9472c1e2&hash=5E3740366F8EC3118D7FEEAEAD3F739A
